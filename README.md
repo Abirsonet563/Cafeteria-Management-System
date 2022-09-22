@@ -1,2 +1,2 @@
-# Web105
-Web105 2022
+# Cafeteria Management System
+JAva 2022
