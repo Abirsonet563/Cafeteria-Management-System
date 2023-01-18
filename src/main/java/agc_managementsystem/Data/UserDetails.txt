@@ -1,0 +1,4 @@
+Mir Naimur Rahman;abir;mir@mail.com;012345678;2000-01-01;abir;MANAGER;M1
+Wong Tze Byng;tzebyng;byng@mail.com;0112233456;2001-01-01;tzebyng;MANAGER;M2
+Ghassan Rashwan;hasan;ghassan@mail.com;0912341123;2002-04-28;hasan;CUSTOMER;C1
+Cristina Mahanta;cristina;cristina@mail.com;0965521123;2002-02-28;abcd^^123;TRAINER;T1
